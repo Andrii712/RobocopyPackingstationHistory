@@ -2,8 +2,8 @@
 <# This section introduces local parameters that depend on 
 the current machine (PC) and LAN. Edit them as needed.
 #>
-$destinationRootDir = "\\10.110.49.80\Packingstations\Pack12_CD";
-$sourceRootDir = "C:\Emdep\LabelingStandalone\LabelingData\History";
+$destinationRootDir = "<Path to your destination directory>";
+$sourceRootDir = "<Path to your history directory>";
 $logFileName = "RobocopyPackingStationHistory.log";
 
 
